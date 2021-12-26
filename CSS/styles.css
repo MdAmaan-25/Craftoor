@@ -276,6 +276,18 @@ li {
   margin-left: 61rem;
 }
 
+.shopbut {
+  display: inline-block;
+  background-color: #fc7c7c;
+  padding: 1.2rem 4rem;
+  color: #fff;
+  font-size:medium;
+  text-transform: uppercase;
+  margin-top: 3rem;
+  margin-left:2rem;
+
+}
+
 @media only screen and (max-width: 1200px) {
   .header .hero-img {
     right: -20%;
